@@ -45,10 +45,10 @@
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p4.png" width="800"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p5.png" width="800"></div>  
 2、用户系统中的“查看景点分布图”：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p6.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p6.png" width="200"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p7.png" width="800"></div>  
 3、用户系统中的“查看导游线路图（回路）”：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p8.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p8.png" width="200"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p9.png" width="800"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p10.png" width="800"></div> 
 4、用户系统中的“景点排行”，有景点欢迎度、岔路数、有无休息区、有无厕所四种排行可以选择：
@@ -63,14 +63,14 @@
 8、管理员系统中的“增添景点”、“删除景点”、“增添路线”、“删除路线”：
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p17.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p18.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p19.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p20.png" width="800"></div>
 同时修改文件和邻接表，当操作完成后，文件中会相应增删，用户界面的邻接矩阵也会相应地改变。有操作的回馈消息提示：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p21.png" width="400"></div>
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p21.png" width="200"></div>
 9、停车场系统中的“车辆到达”显示相应通知：
 停入停车场：
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p22.png" width="800"></div>
 停车场已满，停入便道：
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p23.png" width="800"></div>
 10、停车场系统中的“车辆离开”显示相应通知：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p24.png" width="400"></div>
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p24.png" width="800"></div>
 11、停车场系统中，当车牌号相同的车到达或者未停入的车离开时，提示信息：
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p25.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p26.png" width="800"></div>
 
