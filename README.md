@@ -40,15 +40,15 @@
 
 ### 成果展示
 1、菜单及界面：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p2.png" width="600"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p2.png" width="400"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p3.png" width="800"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p4.png" width="800"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p5.png" width="800"></div>  
 2、用户系统中的“查看景点分布图”：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p6.png" width="600"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p6.png" width="400"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p7.png" width="800"></div>  
 3、用户系统中的“查看导游线路图（回路）”：
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p8.png" width="600"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p8.png" width="400"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p9.png" width="800"></div>  
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p10.png" width="800"></div> 
 4、用户系统中的“景点排行”，有景点欢迎度、岔路数、有无休息区、有无厕所四种排行可以选择：
@@ -59,7 +59,7 @@
 6、用户系统中的“查询景点间的最短路径和距离”：
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p14.png" width="800"></div>
 7、用户系统中的“公告栏”，当管理员界面发布消息时，会显示最新消息，初始值为“暂无公告”：  
-<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p15.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p16.png" width="800"></div>
+<div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p15.png" width="400"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p16.png" width="400"></div>
 8、管理员系统中的“增添景点”、“删除景点”、“增添路线”、“删除路线”：
 <div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p17.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p18.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p19.png" width="800"></div><div align=center><img src="https://github.com/Geogy-fjq/ScenicSpotManagementSystem/blob/master/READMEPhoto/p20.png" width="800"></div>
 同时修改文件和邻接表，当操作完成后，文件中会相应增删，用户界面的邻接矩阵也会相应地改变。有操作的回馈消息提示：
